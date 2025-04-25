@@ -1,7 +1,3 @@
-# prompt-to-site
-AI-powered website generator using Gemini. Transform natural language prompts  into responsive, production-ready websites with HTML/CSS/JS in seconds.
-
-
 # 🌐 SiteForgeAI 
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
